@@ -12,4 +12,6 @@ Result:
     Will include count of rows matching and data with rows values
 
 
-Note: Have used `csvtojson` packg to read data from csv into a object array    
+Note: Have used `csvtojson` packg to read data from csv into a object array
+
+Time Complexity for this search in O(n)
